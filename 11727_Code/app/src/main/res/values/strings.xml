@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard Shortcuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="storage_permission">Cannot open gallery without permission</string>
+</resources>
