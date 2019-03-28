@@ -26,7 +26,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 ●	Firebase and Google Account<br/>
 ●	Git: Optional<br/>
 <br/>
-# EXERCISE FILES  <br/>
+### Exercise Files  <br/>
 The exercise files in this course are:<br/>
 ●	Available on GitHub<br/>
 ●	Structured at a section level. At the start of each section there is a new snapshot to work from.<br/>
@@ -39,7 +39,7 @@ For successful completion of this course, students will require the computer sys
 •	Memory: 8 GB RAM<br/>
 •	Storage: 150 GB hard disk
 <br/><br/>
-## Recommended Hardware Requirements:<br/>
+### Recommended Hardware Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <br/>
 •	OS: Windows, Mac, Linux<br/>
@@ -47,7 +47,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 •	Memory: 8 GB RAM<br/>
 •	Storage: 150 GB hard disk<br/>
 <br/>
-# Software Requirements
+### Software Requirements
 <br/>
 •	Operating system: Any<br/>
 <br/>
