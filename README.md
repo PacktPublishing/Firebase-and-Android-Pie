@@ -26,7 +26,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 ●	Firebase and Google Account<br/>
 ●	Git: Optional<br/>
 <br/>
-## EXERCISE FILES  <br/>
+# EXERCISE FILES  <br/>
 The exercise files in this course are:<br/>
 ●	Available on GitHub<br/>
 ●	Structured at a section level. At the start of each section there is a new snapshot to work from.<br/>
@@ -46,13 +46,14 @@ For an optimal experience with hands-on labs and other practical activities, we 
 •	Processor: Intel or compatible<br/>
 •	Memory: 8 GB RAM<br/>
 •	Storage: 150 GB hard disk<br/>
-Software Requirements
+<br/>
+# Software Requirements
 <br/>
 •	Operating system: Any<br/>
 <br/>
 •	Browser: Any recent
 <br/>
-•	Android Studio,, Latest Version
+•	Android Studio, Latest Version
 <br/>
 •	Android SDK
 <br/><br/>
