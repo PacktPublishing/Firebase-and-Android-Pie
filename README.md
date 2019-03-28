@@ -24,50 +24,35 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 ●	JDK 8+ 
 ●	Android Studio
 ●	Firebase and Google Account
-●	Git: Optional
-EXERCISE FILES  
-The exercise files in this course are:
-●	Available on GitHub
-●	Structured at a section level. At the start of each section there is a new snapshot to work from.
+●	Git: Optional<br/>
+EXERCISE FILES  <br/>
+The exercise files in this course are:<br/>
+●	Available on GitHub<br/>
+●	Structured at a section level. At the start of each section there is a new snapshot to work from.<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-For successful completion of this course, students will require the computer systems with at least the following:
-•	
-•	OS: Windows, Mac, Linux
-•	
-•	
-•	Processor: Intel or compatible
-•	
-•	
-•	Memory: 8 GB RAM
-•	
-•	
+For successful completion of this course, students will require the computer systems with at least the following:<br/>
+•	OS: Windows, Mac, Linux<br/>
+•	Processor: Intel or compatible<br/>
+•	Memory: 8 GB RAM<br/>
 •	Storage: 150 GB hard disk
-•	
-Recommended Hardware Requirements
+<br/>
+Recommended Hardware Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-•	
-•	OS: Windows, Mac, Linux
-•	Processor: Intel or compatible
-•	
-•	
-•	Memory: 8 GB RAM
-•	
-•	
-•	Storage: 150 GB hard disk
-•	
+<br/>
+•	OS: Windows, Mac, Linux<br/>
+•	Processor: Intel or compatible<br/>
+•	Memory: 8 GB RAM<br/>
+•	Storage: 150 GB hard disk<br/>
 Software Requirements
-•	
-•	Operating system: Any
-•	
-•	
+<br/>
+•	Operating system: Any<br/>
+<br/>
 •	Browser: Any recent
-•	
-•	
+<br/>
 •	Android Studio,, Latest Version
-•	
-•	
+<br/>
 •	Android SDK
 
 
